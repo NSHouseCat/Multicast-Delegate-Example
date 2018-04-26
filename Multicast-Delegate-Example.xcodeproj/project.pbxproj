@@ -67,7 +67,7 @@
 				4993F11C20906123003D8C20 /* LaunchScreen.storyboard */,
 				4993F11F20906123003D8C20 /* Info.plist */,
 			);
-			path = "Multicast-Delegate-Example";
+			name = "Multicast-Delegate-Example";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -289,8 +289,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8E7374PA8T;
-				INFOPLIST_FILE = "Multicast-Delegate-Example/Info.plist";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,8 +307,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8E7374PA8T;
-				INFOPLIST_FILE = "Multicast-Delegate-Example/Info.plist";
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
